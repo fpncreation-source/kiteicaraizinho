@@ -1,39 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
-	<loc>https://kiteicaraizinho.com/</loc>
-	<lastmod>2026-06-04T14:48:57+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://kiteicaraizinho.com/</loc>
+  <lastmod>2026-06-15T01:17:38+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-	<loc>https://kiteicaraizinho.com/escola-de-vela-icaraizinho/</loc>
-	<lastmod>2026-06-04T14:48:57+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://kiteicaraizinho.com/es/</loc>
+  <lastmod>2026-06-15T01:17:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://kiteicaraizinho.com/icaraizinho/</loc>
-	<lastmod>2026-06-04T14:48:57+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://kiteicaraizinho.com/en/</loc>
+  <lastmod>2026-06-15T01:17:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://kiteicaraizinho.com/aula-de-kitesurf-icaraizinho/</loc>
-	<lastmod>2026-06-04T14:48:57+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://kiteicaraizinho.com/escola-de-vela-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://kiteicaraizinho.com/aula-de-wingfoil-icaraizinho/</loc>
-	<lastmod>2026-06-04T14:48:57+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://kiteicaraizinho.com/icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://kiteicaraizinho.com/aula-de-windsurf-icaraizinho/</loc>
-	<lastmod>2026-06-04T14:48:57+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://kiteicaraizinho.com/aula-de-kitesurf-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:40+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://kiteicaraizinho.com/downwinds-icaraizinho/</loc>
-	<lastmod>2026-06-04T14:48:57+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://kiteicaraizinho.com/aula-de-wingfoil-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:40+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://kiteicaraizinho.com/aula-de-windsurf-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/downwinds-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/es/escuela-de-vela-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/es/icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/es/clase-de-kitesurf-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/es/clase-de-wingfoil-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/es/clase-de-windsurf-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/es/downwinds-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/en/watersports-school-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/en/icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/en/kitesurf-lessons-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/en/wingfoil-lessons-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/en/windsurf-lessons-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiteicaraizinho.com/en/downwinds-icaraizinho/</loc>
+  <lastmod>2026-06-15T01:17:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
